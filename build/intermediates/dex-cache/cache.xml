@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompBcast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="593bd65403c8f824e769ac414a9dc4a3a600962b">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompBcast\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dded92b14a083299cb582add290f28b3e2162c71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompBcast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c5125b0ac93718384d0ba640f065533821cfce7">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompBcast\app\build\intermediates\pre-dexed\debug\instant-run_5ab78b9768b02520d3ead7469b9cd624ba46ed2a.jar" />
+    </item>
+
+</items>
